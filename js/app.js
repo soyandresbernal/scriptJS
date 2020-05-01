@@ -28,7 +28,7 @@ console.log(diosDeLaDestruccion);
 
 //CLASES
 
-class Animal {
+/* class Animal {
   constructor(nombre, genero) {
     this.nombre = nombre;
     this.genero = genero;
@@ -40,4 +40,8 @@ class Animal {
 }
 
 const diosDeLaDestruccion = new Animal("Bills", "Felino");
-console.log(diosDeLaDestruccion);
+console.log(diosDeLaDestruccion); */
+
+//-----------------------------------
+//THIS
+console.log(this);
